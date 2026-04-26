@@ -286,8 +286,8 @@ The microplastic and non-microplastic images originate from **distinct imaging m
 
 ## 👩‍💻 Author
 
-**Haraks Duggal**
-**Harpreet Singh**
+**Haraks Duggal**,
+**Harpreet Singh**,
 **Jovan Kooner**
 ---
 
