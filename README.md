@@ -25,7 +25,7 @@
 
 ## 📖 About
 
-Marine microplastic pollution is one of the most pressing environmental and public health challenges of the 21st century. These microscopic plastic fragments (< 5mm) have been detected in marine ecosystems, drinking water, food chains, and even human biological tissues.
+Marine microplastic pollution is one of the most pressing environmental and public health challenges of the 21st century. These microscopic plastic fragments (<5mm) have been detected in marine ecosystems, drinking water, food chains, and even human biological tissues.
 
 Traditional identification methods like **FTIR** and **Raman Spectroscopy** are expensive, slow, and require specialized expertise. This project presents an **automated microplastic detection framework** using deep learning and transfer learning, making large-scale environmental monitoring feasible.
 
